@@ -1,0 +1,29 @@
+{
+  "name": "zoo_database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "marcusbass323 <marcus@bassconsultantgroup.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "knex": "^0.16.3",   
+    "sqlite3": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+    "server": "nodemon"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusbass323/Zoo_Database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusbass323/Zoo_Database/issues"
+  },
+  "homepage": "https://github.com/marcusbass323/Zoo_Database#readme"
+}
